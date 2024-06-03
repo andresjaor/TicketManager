@@ -3,7 +3,6 @@ import logging
 import pathlib
 import time
 import uuid
-import PIL.Image as Image
 
 from typing import Dict
 from datetime import datetime
